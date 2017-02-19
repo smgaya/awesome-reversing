@@ -157,6 +157,7 @@ A curated list of awesome reversing resources
 * [iNetSim](http://www.inetsim.org/)
 * [Wireshark](https://www.wireshark.org/download.html)
 * [Fakenet](http://practicalmalwareanalysis.com/fakenet/)
+* [netzob](https://www.netzob.org/)
 * [Volatility](https://github.com/volatilityfoundation/volatility)
 * [Dumpit](http://www.moonsols.com/products/)
 * [LiME](https://github.com/504ensicsLabs/LiME)
